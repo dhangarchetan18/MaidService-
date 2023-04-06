@@ -64,7 +64,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/meditTextTextEmailAddress2"
+            android:id="@+id/meditTextTextPassword2"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginLeft="25dp"
@@ -107,7 +107,8 @@
             android:text="LOGIN"
             android:textColor="#ffffff"
             android:textSize="22sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:onClick="maidloginbutton"/>
     </LinearLayout>
 
     <TextView

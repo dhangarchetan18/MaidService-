@@ -64,7 +64,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editTextTextEmailAddress2"
+            android:id="@+id/editTextTextPassword2"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginLeft="25dp"
@@ -80,7 +80,7 @@
             android:textSize="18sp" />
 
         <Button
-            android:id="@+id/userbutton3"
+            android:id="@+id/registeruserbutton3"
             style="@android:style/Widget.Button"
             android:layout_width="match_parent"
             android:layout_height="55dp"
@@ -95,7 +95,7 @@
             android:textStyle="bold" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/loginbutton4"
             style="@android:style/Widget.Button"
             android:layout_width="match_parent"
             android:layout_height="55dp"
@@ -107,7 +107,9 @@
             android:text="LOGIN"
             android:textColor="#ffffff"
             android:textSize="22sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:onClick="userloginbutton"
+            />
     </LinearLayout>
 
     <TextView
