@@ -5,18 +5,24 @@
       <map>
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/button_blue_border.xml" value="0.1155" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/editext_background.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/header_background.xml" value="0.1155" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/orange_button_background.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/search_icon_background.xml" value="0.1155" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/drawable/white_background.xml" value="0.1155" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_intro.xml" value="0.16666666666666666" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_login_maid_activitys.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_login_user_activitys.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_maid_dashboard.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_maid_registrations.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_user_dashboard.xml" value="0.16666666666666666" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/activity_user_registrations.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/login_maid_activity.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/login_user_activity.xml" value="0.16666666666666666" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/maid_registration_activity.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/maidentry.xml" value="0.16666666666666666" />
         <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/user_registration_activity.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/MaidBooking/app/src/main/res/layout/userentry.xml" value="0.14130434782608695" />
       </map>
     </option>
   </component>
