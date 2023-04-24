@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:flipInterval="2000"
+        android:autoStart="true"
+        android:inAnimation="@android:anim/slide_in_left"
+        android:outAnimation="@android:anim/slide_out_right"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/fragmentmaidsimage">
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/fragmentmaidsimagetwo">
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/fragmentmaidsimagethree">
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/fragmentmaidsimagefour">
+        </ImageView>
+
+    </ViewFlipper>
+
+</LinearLayout>

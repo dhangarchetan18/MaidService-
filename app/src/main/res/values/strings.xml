@@ -1,4 +1,27 @@
 <resources>
     <string name="app_name">MaidBooking</string>
     <string name="introslogan">Heres your <b>SOLUTION</b> to Cleaning With <b>MAID</b> Service at Hire An <b>Hour</b></string>
+    <string name="menu_open">Open</string>
+    <string name="close_menu">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_us">
+         <html>
+             <body><p style="text-align:justify">Home maids are individuals who are hired to assist with domestic duties within a household. They are responsible for ensuring that the home is clean, organized, and comfortable to live in. The role of a home maid can vary greatly depending on the needs of the household. Some home maids are employed on a full-time basis, while others may work part-time or on an as-needed basis.
+
+Home maids typically perform a range of household tasks, including cleaning and tidying the home, doing laundry, cooking meals, running errands, and providing general household assistance. They may also be responsible for caring for children or pets, depending on the needs of the household. In addition to their practical duties, home maids are often expected to be friendly, courteous, and discreet.
+
+The benefits of hiring a home maid are many. For busy families or individuals, a home maid can take care of time-consuming household tasks, freeing up time for other important activities. They can also provide valuable assistance for elderly or disabled individuals who may have difficulty with certain household tasks. In addition, having a home maid can help to create a clean and organized living environment, which can have a positive impact on mental and physical well-being.
+
+When hiring a home maid, it is important to find someone who is reliable, trustworthy, and experienced. Many home maids work for professional cleaning services, which can provide peace of mind and ensure that the maid has been thoroughly vetted and trained. It is also important to establish clear expectations and boundaries, including hours of work, tasks to be performed, and compensation.
+
+Overall, home maids provide a valuable service to households of all types. Whether you are a busy professional, a family with young children, or an elderly individual in need of assistance, a home maid can help to make life easier and more comfortable.
+
+
+ </p>
+             </body>
+         </html>
+
+</string>
 </resources>

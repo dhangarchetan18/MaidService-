@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaidBooking">
         <activity
+            android:name=".UserProfileActivity"
+            android:exported="false" />
+        <activity
             android:name=".maid_dashboard"
             android:exported="false" />
         <activity

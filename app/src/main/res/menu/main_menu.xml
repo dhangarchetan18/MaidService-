@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/maidabout"
+            android:title="About Us"
+            android:icon="@drawable/ic_baseline_info_24"
+            />
+        <item android:id="@+id/maidservice"
+            android:title="Service"
+            android:icon="@drawable/ic_baseline_cleaning_services_24"/>
+        <item android:id="@+id/maidcontact_support" android:title="Contact"
+            android:icon="@drawable/ic_baseline_contact_support_24"/>
+        <item android:id="@+id/maidshare" android:title="Share"
+            android:icon="@drawable/ic_baseline_share_24"/>
+    </group>
+</menu>
